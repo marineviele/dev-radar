@@ -1,0 +1,42 @@
+[
+  {
+    "login": "marineviele",
+    "name": "Marine Viele",
+    "email": "marineviele@email.com",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/39268783?v=4",
+    "location": null,
+    "id": 1
+  },
+  {
+    "login": "pawns",
+    "name": "Paws",
+    "email": "pawns@email.com",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/39402065?s=460&v=4",
+    "location": null,
+    "id": 2
+  },
+  {
+    "login": "yo",
+    "name": "Yo Man",
+    "email": "yo@email.com",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/39402063?s=460&v=4",
+    "location": null,
+    "id": 3
+  },
+  {
+    "login": "muai",
+    "name": "Oco Muai",
+    "email": "muai@email.com",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/39402062?s=460&v=4",
+    "location": null,
+    "id": 4
+  },
+  {
+    "login": "koro",
+    "name": "Koro Mashtai",
+    "email": "koro@email.com",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/39402061?s=460&v=4",
+    "location": null,
+    "id": 5
+  }
+]
