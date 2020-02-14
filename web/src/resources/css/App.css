@@ -4,15 +4,15 @@
     padding: 60px 30px;
 
     display: flex;
-    flex-direction: row; /* para ficar tudo em linha */
-    align-items: flex-start;    /* para alinhar acima */
+    flex-direction: row;     /* keep in one line */
+    align-items: flex-start; /* align on top     */
 }
 
 #app main {
     margin-left: 30px;
 }
 
-/* responsividade */
+/* responsivity */
 @media (max-width: 1000px) {
     #app {
         flex-direction: column;

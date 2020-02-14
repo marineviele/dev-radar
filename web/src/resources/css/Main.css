@@ -4,8 +4,7 @@ main {
 
 main ul {
     display: grid;
-    grid-template-columns: 1fr 1fr; 
-    /* ou repeat(1fr) */
+    grid-template-columns: 1fr 1fr; /* or repeat(1fr) */
     gap: 20px;
     list-style: none;
 }
@@ -16,6 +15,7 @@ main ul {
     }
 }
 
+/* DEV-ITEM.js */
 li.dev-item {
     background: #FFF;
     box-shadow: 0 0 14px 0 rgba(0,0,0,0.2);
@@ -38,7 +38,7 @@ li.dev-item header img {
 li.dev-item header .user-info {
     margin-left: 10px;
 }
-/* não usa mais que três níveis */
+
 .user-info strong {
     display: block;
     font-size: 16px;
@@ -67,3 +67,4 @@ li.dev-item a {
 li.dev-item a:hover {
     color: #5a2ea6;
 }
+/* END DEV-ITEM.js */

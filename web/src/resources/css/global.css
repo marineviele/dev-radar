@@ -1,5 +1,4 @@
 /* BASE CONFIGURATIONS */
-
 * {
   margin: 0;
   padding: 0;
@@ -13,15 +12,13 @@ html, body, #root {
 
 body {
     background: #E5E6F0;
-    /* deixa a fonte mais legível */
-    -webkit-fonyt-smoothing: antialiased; 
+    -webkit-fonyt-smoothing: antialiased; /* makes text more readable */
 }
-
 /* END BASE CONFIGURATIONS */
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 
-/* o input e o button não herdam a fonte do body não sei porquê */
+/* input & button don't inherit the body font */
 body, input, button {
     font-family: Roboto, sans-serif;
 }

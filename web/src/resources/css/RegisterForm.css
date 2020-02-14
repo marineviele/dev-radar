@@ -13,11 +13,12 @@ aside strong {
     color: #333;
 }
 
+/* DEV-FORM.js */
 aside form {
     margin-top: 30px;
 }
 
-/* + procura todo o input block que tenha input block antes dele */
+/* '+' searchs for every input-block that has an input-block before it*/
 aside form .input-block + .input-block {
     margin-top: 20px;
 }
@@ -67,3 +68,4 @@ aside form button[type=submit] {
 aside form button[type=submit]:hover {
     background: #6931ca;
 }
+/* END DEV-FORM.js */
